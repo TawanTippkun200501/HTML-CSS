@@ -1,0 +1,14 @@
+/* class = . ก่อนหน้าชื่อตัวแปรเสมอ */
+/* id    = # ก่อนหน้าชื่อตัวแปรเสมอ */
+h1{
+    color:red;
+    background-color: black;
+}
+.tt{
+    background-color: black;
+    color:white
+}
+.cc{
+    background-color: aqua;
+    color:black;
+}
